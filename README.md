@@ -1,4 +1,4 @@
-# Titantic-
+# Titanic survival prediction
 
 Dataset https://www.kaggle.com/c/titanic/data
 
